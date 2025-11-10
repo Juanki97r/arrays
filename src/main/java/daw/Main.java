@@ -7,5 +7,9 @@ public class Main {
         
 
         String palabra = JOptionPane.showInputDialog("Introduce la palabra");
+
+        
+
+        
     }
 }
